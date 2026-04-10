@@ -83,3 +83,52 @@ h1, h2, h3, h4, h5, h6 {
   text-wrap: balance;
 }
 
+.resume section + section {
+  margin-top: 2em;
+}
+
+.resume article {
+  margin-bottom: 1em;
+}
+
+.resume h2 {
+  border-bottom: 2px solid oklch(80% 3% 200);
+  padding-bottom: 0.2em;
+  margin-top: 0;
+}
+
+.resume article {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 0.2em 1em;
+  margin-bottom: 1em;
+}
+
+.resume article h3 {
+  margin: 0;
+  font-size: 1.1em;
+}
+
+.resume article p {
+  margin: 0.1em 0;
+}
+.resume article time {
+  grid-column: 2;
+  text-align: right;
+  font-size: 0.9em;
+}
+
+.resume article p:last-of-type {
+  grid-column: 2;
+  text-align: right;
+  color: oklch(50.304% 0.09093 25.25);
+  font-size: 0.9em;
+}
+
+.resume ul {
+  grid-column: 1 / -1;
+  margin: 0.5em 0 1em 1.2em;
+  padding: 0;
+}
+
+
