@@ -1,0 +1,74 @@
+[
+    {
+        "title": "Undergraduate Economics Society Capstone Project",
+        "year": "2026",
+        "image": "https://dsc106.com/labs/lab02/images/empty.svg",
+        "description": "Predict population & see how that impacts economic growth and equity returns."
+    },
+    {
+        "title": "Fitstop Consulting Project",
+        "year": "2026",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Help local fitness studio in La Jolla increase membership."
+    },
+    {
+        "title": "Recipes and Ratings, EDA & Modeling",
+        "year": "2026",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Create a model to predict number of steps in a recipe based on nutritional values, prep time, and number of ingredients."
+    },
+    {
+        "title": "Responsible Data Science Program - Impact of Energy Usage of Datacenters",
+        "year": "2026",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Discover relationships between increased energy usage, datacenters, and residential prices/population."
+    },
+    {
+        "title": "Point of System Simulation",
+        "year": "2025",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Create a mock grocery store checkout process."
+    },
+    {
+        "title": "Undergraduate Economics Society, Internal Consulting Project",
+        "year": "2025",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Create a members handbook for career & school help."
+    },
+    {
+        "title": "Meteorite Landings Data Analysis",
+        "year": "2025",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Data exploration of metorites records from NASA"
+    },
+    {
+        "title": "Spotify Top-200 Data Analysis",
+        "year": "2025",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Data exploration of Spotify's Top 200 chart entries from 2021-2022"
+    },
+    {
+        "title": "Case Project Program",
+        "year": "2025",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Analysis on Coco-Cola entering the prebiotic beverage market"
+    },
+    {
+        "title": "tbd1",
+        "year": "2025",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "to be determined 1"
+    },
+    {
+        "title": "tbd2",
+        "year": "2025",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "to be determined 2"
+    },
+    {
+        "title": "tbd3",
+        "year": "2025",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "to be determined 3"
+    }
+]

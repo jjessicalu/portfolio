@@ -144,8 +144,29 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 80%;
 }
 
-
-
 nav {
   padding-top: 0.6rem;
+}
+
+#profile-stats dl {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);  /* 4 equal columns */
+  gap: 2em;
+  margin: 2em 0;
+}
+
+#profile-stats dt {
+  grid-row: 1;  /* All labels go in row 1 */
+  font-size: 0.9em;
+  text-transform: uppercase;
+  color: oklch(50% 10% 200);  /* Gray color for labels */
+  font-weight: normal;
+  margin-bottom: 0.5em;
+}
+
+#profile-stats dd {
+  grid-row: 2;  /* All numbers go in row 2 */
+  font-size: 2.5em;
+  font-weight: bold;
+  margin: 0;
 }
