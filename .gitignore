@@ -1,0 +1,11 @@
+
+If you've already committed node_modules, you need to remove it from Git's tracking (but keep it locally):
+
+bash
+git rm -r --cached node_modules
+git commit -m "Stop tracking node_modules"
+Re-run the elocuent command if needed – the CSV file will still be generated, but Git will ignore the node_modules folder.
+
+Your .gitignore can also include other common files (e.g., .DS_Store, *.log), but at minimum add node_modules/.
+
+node_modules/
