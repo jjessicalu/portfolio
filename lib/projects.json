@@ -1,5 +1,11 @@
 [
     {
+        "title": "Bikewatching",
+        "year": "2026",
+        "image": "../lib/image.png",
+        "description": "url: https://jjessicalu.github.io/bikewatching/"
+    },
+    {
         "title": "Undergraduate Economics Society Capstone Project",
         "year": "2026",
         "image": "https://dsc106.com/labs/lab02/images/empty.svg",
@@ -64,11 +70,5 @@
         "year": "2023",
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
         "description": "to be determined 2"
-    },
-    {
-        "title": "tbd3",
-        "year": "2023",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "to be determined 3"
     }
 ]

@@ -366,3 +366,9 @@ circle.selected {
 #language-breakdown dd {
   font-size: 1em;
 }
+
+.projects article img {
+    width: 100%;
+    height: 15em;
+    object-fit: cover;
+}
